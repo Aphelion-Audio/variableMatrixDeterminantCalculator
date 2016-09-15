@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1473926609 source:c:\users\ekrut\documents\programs\variablematrixcalculator\variablematrixcalculator\main.cpp
+	<iostream>
+	<string>
+	"matrix.h"
+	"userCheck.h"
+
+1473920069 c:\users\ekrut\documents\programs\variablematrixcalculator\variablematrixcalculator\matrix.h
+
+1473921282 c:\users\ekrut\documents\programs\variablematrixcalculator\variablematrixcalculator\usercheck.h
+
+1473925653 source:c:\users\ekrut\documents\programs\variablematrixcalculator\variablematrixcalculator\matrix.cpp
+	<iostream>
+	<string>
+	"matrix.h"
+	"userCheck.h"
+
+1473918613 source:c:\users\ekrut\documents\programs\variablematrixcalculator\variablematrixcalculator\usercheck.cpp
+	<iostream>
+	<string>
+	"userCheck.h"
+
